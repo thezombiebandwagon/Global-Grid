@@ -1,0 +1,2 @@
+# Global-Grid
+This is a project that I am creating in order to make an application that can be used by players of the game system Shadowrun. The intent is to create an application that will allow players to connect to each other via the internet and create an interface to easily assist game play. Additionally I am hoping to create a function to import files created with the application called Chummer5 so people can easily interact with the Shadowrun rule system.
